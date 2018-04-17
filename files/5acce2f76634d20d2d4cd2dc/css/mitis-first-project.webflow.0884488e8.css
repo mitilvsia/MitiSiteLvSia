@@ -112,8 +112,8 @@ p {
 
 .header {
   padding: 98px 10px;
-  background-image: -webkit-linear-gradient(270deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("http://uploads.webflow.com/5acce2f76634d20d2d4cd2dc/5acce7176634d210954cd84d_IMG_0359.JPG");
-  background-image: linear-gradient(180deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("http://uploads.webflow.com/5acce2f76634d20d2d4cd2dc/5acce7176634d210954cd84d_IMG_0359.JPG");
+  background-image: -webkit-linear-gradient(270deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("../../../images/5acce2f76634d20d2d4cd2dc/5acce7176634d210954cd84d_IMG_0359.jpg");
+  background-image: linear-gradient(180deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("../../../images/5acce2f76634d20d2d4cd2dc/5acce7176634d210954cd84d_IMG_0359.jpg");
   background-position: 0px 0px, 50% 70%;
   background-size: auto, cover;
   color: #fff;
@@ -123,8 +123,8 @@ p {
 .header.project-page {
   padding-top: 77px;
   padding-bottom: 77px;
-  background-image: -webkit-linear-gradient(270deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("http://uploads.webflow.com/5acce2f76634d20d2d4cd2dc/5acce2f86634d225fc4cd317_lake.jpg");
-  background-image: linear-gradient(180deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("http://uploads.webflow.com/5acce2f76634d20d2d4cd2dc/5acce2f86634d225fc4cd317_lake.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("../../../images/5acce2f76634d20d2d4cd2dc/5acce2f86634d225fc4cd317_lake.jpg");
+  background-image: linear-gradient(180deg, rgba(100, 209, 198, .55), rgba(100, 209, 198, .55)), url("../../../images/5acce2f76634d20d2d4cd2dc/5acce2f86634d225fc4cd317_lake.jpg");
 }
 
 .navbar {
@@ -224,8 +224,8 @@ p {
 
 .section.contact {
   background-color: #7ec4bd;
-  background-image: -webkit-linear-gradient(270deg, rgba(126, 196, 189, .87), #7ec4bd), url("http://uploads.webflow.com/5acce2f76634d20d2d4cd2dc/5acce2f86634d260ac4cd30d_footer-bg.jpg");
-  background-image: linear-gradient(180deg, rgba(126, 196, 189, .87), #7ec4bd), url("http://uploads.webflow.com/5acce2f76634d20d2d4cd2dc/5acce2f86634d260ac4cd30d_footer-bg.jpg");
+  background-image: -webkit-linear-gradient(270deg, rgba(126, 196, 189, .87), #7ec4bd), url("../../../images/5acce2f76634d20d2d4cd2dc/5acce2f86634d260ac4cd30d_footer-bg.jpg");
+  background-image: linear-gradient(180deg, rgba(126, 196, 189, .87), #7ec4bd), url("../../../images/5acce2f76634d20d2d4cd2dc/5acce2f86634d260ac4cd30d_footer-bg.jpg");
   background-size: auto, cover;
   font-family: Vollkorn, serif;
 }
